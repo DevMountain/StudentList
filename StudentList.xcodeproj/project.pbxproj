@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		9D3B37D11D74850800187CA9 /* StudentImages in Resources */ = {isa = PBXBuildFile; fileRef = 9D3B37D01D74850800187CA9 /* StudentImages */; };
-		9DFE1BC01D26D55A00F80375 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE1BB71D26D55A00F80375 /* Assets.xcassets */; };
 		9DFE1BC11D26D55A00F80375 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE1BB81D26D55A00F80375 /* LaunchScreen.storyboard */; };
 		9DFE1BC21D26D55A00F80375 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE1BBA1D26D55A00F80375 /* Main.storyboard */; };
 		9DFE1BC41D26D55A00F80375 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFE1BBE1D26D55A00F80375 /* AppDelegate.swift */; };
@@ -19,7 +18,6 @@
 /* Begin PBXFileReference section */
 		9D3B37D01D74850800187CA9 /* StudentImages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = StudentImages; sourceTree = "<group>"; };
 		9DFE1BA11D26D51600F80375 /* StudentList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudentList.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9DFE1BB71D26D55A00F80375 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9DFE1BB91D26D55A00F80375 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9DFE1BBB1D26D55A00F80375 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9DFE1BBC1D26D55A00F80375 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -61,7 +59,6 @@
 			children = (
 				9D3B37D01D74850800187CA9 /* StudentImages */,
 				9DFE1BC61D26D77B00F80375 /* Storyboards */,
-				9DFE1BB71D26D55A00F80375 /* Assets.xcassets */,
 				9DFE1BBC1D26D55A00F80375 /* Info.plist */,
 			);
 			path = Resources;
@@ -146,7 +143,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DFE1BC21D26D55A00F80375 /* Main.storyboard in Resources */,
-				9DFE1BC01D26D55A00F80375 /* Assets.xcassets in Resources */,
 				9D3B37D11D74850800187CA9 /* StudentImages in Resources */,
 				9DFE1BC11D26D55A00F80375 /* LaunchScreen.storyboard in Resources */,
 			);
